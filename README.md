@@ -4,7 +4,7 @@ A running log of my Linux system administration practice — labs, scripts, and 
 
 ## Background
 
-I hold CompTIA Security+ (DoD 8140 IAT Level II) and I'm building hands-on Linux administration skills to pair with it — storage/LVM, networking, SELinux, systemd, scripting, containers (Podman), security hardening, and basic cloud deployment.
+I hold CompTIA Security+ (DoD 8140 IAT Level II) and I'm building hands-on Linux administration skills to pair with IT storage/LVM, networking, SELinux, systemd, scripting, containers (Podman), security hardening, and basic cloud deployment.
 
 ## Labs
 
@@ -12,7 +12,7 @@ I hold CompTIA Security+ (DoD 8140 IAT Level II) and I'm building hands-on Linux
 |------|-----|--------|
 | 1 | [Team Directory Permissions & SGID](labs/week01-permissions-sgid.md) | chmod, sticky bit, SGID |
 
-*(This table grows as each lab is added — see `labs/TEMPLATE.md` for the format used.)*
+*(This table grows as each lab is added — see `labs/TEMPLATE.md` for the format used.)
 
 ## Scripts
 
