@@ -1,10 +1,10 @@
-# Linux Homelab
+# Linux Homelabs
 
 A running log of my Linux system administration practice — labs, scripts, and notes from a self-directed 90-day study plan working toward RHCSA (EX200) and IT support / cloud sysadmin roles.
 
 ## Background
 
-I hold CompTIA Security+ (DoD 8140 IAT Level II) and I'm building hands-on Linux administration skills to pair with IT storage/LVM, networking, SELinux, systemd, scripting, containers (Podman), security hardening, and basic cloud deployment.
+I hold CompTIA Security+ (DoD 8140 IAT Level II) and I'm building hands-on Linux administration skills to pair with IT storage/LVM, networking, SELinux, systemd, scripting, containers (Docker), security hardening, and basic cloud deployment.
 
 ## Labs
 
