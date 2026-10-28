@@ -1,0 +1,1 @@
+# Exercises EXERCISES_TEMPLATE.md
