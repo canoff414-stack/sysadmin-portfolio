@@ -11,6 +11,7 @@ I hold CompTIA Security+ (DoD 8140 IAT Level II) and I'm building hands-on Linux
 | Week | Lab | Topics |
 |------|-----|--------|
 | 1 | [Team Directory Permissions & SGID](labs/week01-permissions-sgid.md) | chmod, sticky bit, SGID |
+| 2 | [Sudo Privilege Levels & Dual Package Management](labs/week02-users-sudo-packages.md) | sudo, sudoers, dnf, apt, Podman |
 
 *(This table grows as each lab is added — see `labs/TEMPLATE.md` for the format used.)*
 
